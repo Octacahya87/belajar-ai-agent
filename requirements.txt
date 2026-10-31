@@ -1,0 +1,1 @@
+# Contoh ini hanya memakai pustaka standar Python.
